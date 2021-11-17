@@ -1,0 +1,48 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Design"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ],
+    [
+      "Engineering",
+      "Ocean Engineering",
+      "Ocean Exploration"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "a74e684e-a6d5-b89f-e08d-33401dfd9a19"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Exploring Sea, Space, & Earth: Fundamentals of Engineering Design",
+  "course_description": "Student teams formulate and complete space/earth/ocean exploration-based design projects with weekly milestones. This course introduces core engineering themes, principles, and modes of thinking, and includes exercises in written and oral communication and team building. Specialized learning modules enable teams to focus on the knowledge required to complete their projects, such as machine elements, electronics, design process, visualization and communication. Examples of projects include surveying a lake for millfoil from a remote controlled aircraft, then sending out robotic harvesters to clear the invasive growth; and exploration to search for the evidence of life on a moon of Jupiter, with scientists participating through teleoperation and supervisory control of robots.\n",
+  "department_numbers": [
+    "2",
+    "16"
+  ],
+  "extra_course_numbers": "16.00AJ",
+  "primary_course_number": "2.00AJ",
+  "learning_resource_types": [
+    "Image Gallery",
+    "Lecture Notes",
+    "Projects with Examples",
+    "Design Assignments with Examples",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
